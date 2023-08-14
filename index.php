@@ -17,13 +17,13 @@
     <aside class="col-3 col-xl-2 bg-pr full-height-overflow">
       <ul>
         <a href="./">
-          <li class="hov-primary">Dashboard</li>
+          <li class="hov-primary">1Dashboard</li>
         </a>
         <a href="./">
-          <li class="hov-primary">Payment</li>
+          <li class="hov-primary">2Payment</li>
         </a>
         <a href="./">
-          <li class="hov-primary">CounterParties</li>
+          <li class="hov-primary">3CounterParties</li>
         </a>
         <a href="./">
           <li class="hov-primary">Action History</li>
